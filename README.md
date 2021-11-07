@@ -35,6 +35,11 @@ yarn start
 yarn  build
 ```
 
+Notes: How to push to storage
+1. git add .
+2. git commit -m "Readme.md update"
+3. git push origin master
+
 ## Configuration
 
 Within gatsby-config.js, you can specify information about your site (metadata) like the site title and description to properly generate meta tags.
