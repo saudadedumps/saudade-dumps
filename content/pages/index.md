@@ -1,8 +1,8 @@
 ---
-template: 'index-template'
-title: 'Dumps'
+title: Dumps
+template: index-template
+profile_image: /media/e2e5ca157c4da38e2936529e17d74887.jpg
 ---
+\#Welcome to my Emotional Dumpsite. 
 
-#Hello, mga bata.
-
-zzzzz
+Hope you won't enjoy your stay here.
