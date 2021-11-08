@@ -6,6 +6,10 @@ tags:
 social_image: /media/e2e5ca157c4da38e2936529e17d74887.jpg
 description: "Let's try this. "
 ---
+
+
+![](/media/download-1-.jpg)
+
 Hey, how are you?
 
 \-I’m fine. ~~I’m exhausted.~~
@@ -16,7 +20,7 @@ You seem tired.
 
 Oh my. Just rest for a bit.
 
-\-Will try. ~~ I can’t.~~
+\-Will try. \~\~ I can’t.\~\~
 
 Try resting now.
 
@@ -37,5 +41,3 @@ Yes, I’m okay. ~~No. Help me disappear? Even just for a day or a week.~~
 Okay. Goodbye.
 
 Bye. ~~Please stay.~~
-
-![](/media/download-1-.jpg)
