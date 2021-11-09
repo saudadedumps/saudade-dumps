@@ -1,5 +1,5 @@
 ---
-title: Dumps
+title: Home
 template: index-template
 profile_image: /media/e2e5ca157c4da38e2936529e17d74887.jpg
 ---
