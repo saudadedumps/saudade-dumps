@@ -4,7 +4,9 @@ date: 2021-11-08 00:00
 tags:
   - first
 social_image: /media/e2e5ca157c4da38e2936529e17d74887.jpg
-description: "Let's try this. "
+description: "Sometimes I make up some fake conversations in my head. I didn't
+  know how cringe it is once I started forming it into what I written. Oh well,
+  your funeral if you try reading it. "
 ---
 
 
